@@ -1,3 +1,4 @@
+[![CI](https://github.com/krishujeniya/wifiscany/actions/workflows/ci.yml/badge.svg)](https://github.com/krishujeniya/wifiscany/actions/workflows/ci.yml)
 
 <a id="readme-top"></a>
 
